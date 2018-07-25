@@ -10,3 +10,4 @@ puts "#{tvShows[2]}"
 # I want to take an array with the above values
 # I want to loop through the entire array
 # I want to puts out the name of all the shows in the array currently
+
